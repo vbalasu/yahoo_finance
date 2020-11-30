@@ -38,3 +38,11 @@ for t in usa_top_10:
     [*********************100%***********************]  1 of 1 completed
     [*********************100%***********************]  1 of 1 completed
 
+
+### Trifacta Flow
+
+![yahoo_finance_flow](media/yahoo_finance_flow.png)
+
+### Output
+
+![yahoo_finance_output](media/yahoo_finance_output.png)
